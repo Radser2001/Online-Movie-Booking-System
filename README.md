@@ -9,7 +9,7 @@
 > #### Here are some of my responsibilities during this project
 >
 > - Designed movies, user dashboard, contact us, offers, update profile
-> - Developed entire User Management System : <br>
+> - Developed entire User Management System (HTML, CSS, JavaScript, PHP, MySQL) and allowed the user to perform CRUD operations: <br>
 >   1. User Registration
 >   2. User Login
 >   3. User Dashboard
