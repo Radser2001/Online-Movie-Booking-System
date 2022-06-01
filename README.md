@@ -1,6 +1,6 @@
 # QuickBook.com
 
-#### 1st Year 2nd Semester IWT group project (5 members)
+#### An Online Movie Booking System created for the 1st Year 2nd Semester IWT group project (5 members)
 
 <br>
 
