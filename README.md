@@ -1,14 +1,12 @@
 # QuickBook.com
 
-#### An Online Movie Booking System created for the 1st Year 2nd Semester IWT group project (5 members)
-
-<br>
+### An Online Movie Booking System created for the 1st Year 2nd Semester IWT group project (5 members)
 
 #### Tech used: HTML/CSS/JavaScript/PHP/MySQL
 
 <br>
 
-> #### Here are some of my responsibilities for this project
+> #### Here are some of my responsibilities during this project
 >
 > - Designed movies, user dashboard, contact us, offers, update profile
 > - Developed entire User Management System : <br>
